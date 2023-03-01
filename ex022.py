@@ -7,5 +7,3 @@ print(f'Seu nome em maiusculas é {nome.upper()}')
 print(f'Seu nome em minusculas é {nome.lower()}')
 print(f'Seu nome ao todo tem {len(nome) - c_espacos} letras')
 print(f'Seu primeiro nome é {separa[0]} e ele tem {first_name} letras')
-
-### A fazer =================================================================
