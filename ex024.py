@@ -6,4 +6,3 @@ if cidade[0] == 'santo':
     print(True)
 else:
     print(False)
-#===== FAZENDO ========================== #
